@@ -12,7 +12,7 @@ navbar:
     - { key: '首页', link: '/', icon: 'iconfont icon-home-fill' }
     - { key: '归档', link: '/archives/', icon: 'iconfont icon-archive-fill' }
     - { key: '分类', link: '/categories/', icon: 'iconfont icon-category-fill' }
-    - { key: '关于', link: '/about/', icon: 'iconfont icon-user-fill' }
+    - { key: 'API文档', link: 'https://docs.quanzil.com/', icon: 'iconfont icon-user-fill' }
     - { key: '前往全智API中转站', link: 'https://quanzil.com', icon: 'iconfont icon-link-fill' }
 
 # # ==========================================================
