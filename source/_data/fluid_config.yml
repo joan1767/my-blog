@@ -23,13 +23,3 @@ index:
     enable: true
     text: "国内稳定的大模型API聚合中转平台-全智api" # 替换掉默认的英文
 
-# # ==========================================================
-# # 4. 强制注入图标代码 (解决浏览器死活不更新图标的问题)
-# # ==========================================================
-custom_html:
-  head: |
-    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <meta name="msvalidate.01" content="36CC1147BAC558447DA0D92095C7B6FA" />
