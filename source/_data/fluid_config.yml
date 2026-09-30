@@ -1,0 +1,34 @@
+# ==========================================================
+# 1. 网页标签页图标 (你截图最上面的红框)
+# ==========================================================
+favicon: /favicon.png
+
+# # ==========================================================
+# # 2. 顶部导航栏 (你截图左上角和右上角的红框)
+# # ==========================================================
+navbar:
+  blog_title: "AI导航与使用指南" # 左上角的文字 Logo，替换掉默认的 "Fluid"
+  menu:
+    - { key: '首页', link: '/', icon: 'iconfont icon-home-fill' }
+    - { key: '归档', link: '/archives/', icon: 'iconfont icon-archive-fill' }
+    - { key: '分类', link: '/categories/', icon: 'iconfont icon-category-fill' }
+    - { key: '关于', link: '/about/', icon: 'iconfont icon-user-fill' }
+    - { key: '前往全智API中转站', link: 'https://quanzil.com', icon: 'iconfont icon-link-fill' }
+
+# # ==========================================================
+# # 3. 首页中间的打字机大字 (你截图正中间的红框)
+# # ==========================================================
+index:
+  slogan:
+    enable: true
+    text: "国内稳定的大模型API聚合中转平台-全智api" # 替换掉默认的英文
+
+# # ==========================================================
+# # 4. 强制注入图标代码 (解决浏览器死活不更新图标的问题)
+# # ==========================================================
+custom_html:
+  head: |
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

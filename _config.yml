@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: AI导航与使用指南
+subtitle: '分享AI技术指南'
+description: 'AI中转站、API中转站、AI中转站、国内API中转、大模型聚合中转平台使用指南，涵盖 GPT API、Claude API、Gemini API 等常见模型接口接入教程。'
+keywords: 'AI中转站, API中转站, 国内API中转, 大模型聚合, GPT API, GPT中转站, GPT国内调用, ChatGPT API, OpenAI接口代理, Claude API, Claude国内直连, Gemini API, AI接口购买, 便宜GPT接口, 稳定大模型API, 开发者AI接口'
+author: fly
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://fly-api.com
+permalink: posts/:title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -93,10 +93,13 @@ include:
 exclude:
 ignore:
 
+sitemap:
+  path: sitemap.xml
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
