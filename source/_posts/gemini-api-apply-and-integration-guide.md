@@ -1,8 +1,13 @@
 ---
 title: Gemini API 怎么申请？国内调用 Gemini 接口对接与中转避坑指南
-slug: /blog/gemini-api/gemini-api-apply-and-integration-guide.html
 description: Gemini API 怎么申请？国内开发者如何解决 Gemini 接口访问报错问题？本文详解 Gemini API 官方申请流程的痛点，以及如何通过 Gemini API 中转站、代理接口实现稳定对接与代码调用。
 keywords: Gemini API申请,Gemini接口对接,Gemini API购买,Gemini API价格,Gemini API免费,Gemini中转站,Gemini代理,Gemini国内调用,Gemini接口调用,Google Gemini API,大模型API中转,OpenAI兼容接口
+categories:
+  - Gemini API
+tags:
+  - Gemini 
+  - Gemini API
+  - Gemini pro API
 ---
 
 # Gemini API 怎么申请？国内调用 Gemini 接口对接与中转避坑指南

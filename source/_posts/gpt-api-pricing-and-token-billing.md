@@ -2,6 +2,13 @@
 title: GPT API价格多少钱？Token计费规则、成本估算与省钱技巧详解
 description: GPT API价格多少钱？本文详细讲解 GPT API 的 Token 计费规则、输入与输出价格差异、GPT中转站计费方式、模型倍率说明、成本估算公式，并提供 Python 统计 Token 消耗的代码示例和降低 GPT调用成本的实用技巧。
 keywords: GPT API价格,GPT API收费,GPT API计费,GPT API多少钱,GPT Token计费,Token是什么,GPT中转站价格,GPT API中转站,OpenAI API价格,ChatGPT API价格,大模型API价格,AI API中转站,API中转站计费,GPT调用成本
+categories:
+  - GPT API
+tags:
+  - GPT 
+  - OpenAI
+  - GPT API
+  - ChatGPT API
 ---
 
 # GPT API价格多少钱？Token计费规则、成本估算与省钱技巧详解

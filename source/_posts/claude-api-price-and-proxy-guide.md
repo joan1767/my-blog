@@ -2,6 +2,13 @@
 title: Claude API价格贵？国内中转站如何低成本接入Claude模型
 description: Claude API怎么计费？国内开发者如何低成本接入Claude？本文详细拆解Claude API Token计费逻辑、各模型价格对比、成本优化策略，并给出通过Claude中转站快速接入的完整方案与Python实战代码。
 keywords: Claude API价格, Claude中转站, Claude API计费, Claude Token, Claude模型对比, Claude API国内, Claude国内接入, Claude接口, Claude调用教程, Claude代理API, Claude开发成本
+categories:
+  - Claude API
+tags:
+  - Claude 
+  - Anthropic
+  - Claude API
+  - Claude Opus API
 ---
 
 # Claude API价格贵？国内中转站如何低成本接入Claude模型

@@ -5,9 +5,10 @@ keywords: 'GPT API 国内调用, OpenAI API 国内, GPT API 教程, GPT接口, C
 categories:
   - GPT API
 tags:
-  - GPT
+  - GPT 
   - OpenAI
-  - API
+  - GPT API
+  - ChatGPT API
 ---
 
 

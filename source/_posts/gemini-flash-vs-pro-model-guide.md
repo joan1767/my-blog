@@ -2,6 +2,12 @@
 title: Gemini 3.8 Flash 与 Gemini 3.1 怎么选？国内 API 接入与模型对比完整指南
 description: Gemini 3.8 Flash 和 Gemini 3.1 Flash 有什么区别？本文从模型能力、上下文长度、价格和国内调用方式出发，帮助开发者选择合适的 Gemini 模型，并提供完整的 Python、Node.js 和 OpenAI SDK 接入示例。
 keywords: Gemini 3.8 Flash,Gemini 3.1 Flash,Gemini Flash对比,Gemini模型对比,Gemini模型怎么选,Gemini API接入,Gemini国内调用,Gemini中转站,Gemini上下文,Gemini长文本,Gemini API价格,Gemini API教程,Google Gemini模型,大模型API中转站,OpenAI兼容接口,AI API中转
+categories:
+  - Gemini API
+tags:
+  - Gemini 
+  - Gemini API
+  - Gemini pro API
 ---
 
 # Gemini 3.8 Flash 与 Gemini 3.1 怎么选？国内 API 接入与模型对比完整指南

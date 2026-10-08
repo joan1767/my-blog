@@ -2,6 +2,13 @@
 title: Claude 5.5 API国内怎么用？Claude中转站调用教程与接入方案
 description: Claude API国内调用全攻略。本文详细讲解如何通过Claude中转站绕过限制，稳定接入Claude 5.5 Sonnet，并提供OpenAI兼容接口调用、LangChain框架接入以及常见AI应用的配置指南。
 keywords: Claude中转站, Claude API, Claude调用, Claude 5.5 API, Claude API国内, Claude国内调用, Claude接口, Claude接入教程, Claude代理, Claude代码调用
+categories:
+  - Claude API
+tags:
+  - Claude 
+  - Anthropic
+  - Claude API
+  - Claude Opus API
 ---
 
 # Claude 5.5 API国内怎么用？Claude中转站调用教程与接入方案

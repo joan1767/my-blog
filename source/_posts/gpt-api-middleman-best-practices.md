@@ -2,6 +2,13 @@
 title: GPT接口开发避坑指南：使用 GPT API中转站 必须知道的10件事
 description: 准备接入大模型API？本文总结了国内开发者在进行 GPT调用 和使用 GPT API中转站 时必须知道的10个避坑指南，涵盖接口调用、Token计费、流式输出、SDK配置以及多模型切换的最佳实践。
 keywords: GPT中转站,GPT API中转站,GPT API,GPT调用,GPT接口,OpenAI API中转,ChatGPT API中转,国内GPT API,大模型API中转,AI API中转站,OpenAI兼容接口,大模型接口调用
+categories:
+  - GPT API
+tags:
+  - GPT 
+  - OpenAI
+  - GPT API
+  - ChatGPT API
 ---
 
 # GPT接口开发避坑指南：使用 GPT API中转站 必须知道的10件事
